@@ -1,0 +1,10 @@
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\bin\Debug\AddressBoolWithDissconnectedNTier.dll.config
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\bin\Debug\AddressBoolWithDissconnectedNTier.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\bin\Debug\AddressBoolWithDissconnectedNTier.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\obj\Debug\AddressBoolWithDissconnectedNTier.csprojAssemblyReference.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\obj\Debug\AddressBoolWithDissconnectedNTier.csproj.CoreCompileInputs.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\obj\Debug\AddressBoolWithDissconnectedNTier.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\obj\Debug\AddressBoolWithDissconnectedNTier.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\bin\Debug\AddressBookEntity.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\bin\Debug\AddressBookEntity.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\obj\Debug\AddressBoolWithDissconnectedNTier.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\bin\Debug\AddressBookEntity.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\bin\Debug\AddressBookEntity.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\obj\Debug\AddressBookEntity.csprojAssemblyReference.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\obj\Debug\AddressBookEntity.csproj.CoreCompileInputs.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\obj\Debug\AddressBookEntity.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\AddressBookEntity\obj\Debug\AddressBookEntity.pdb

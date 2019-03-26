@@ -1,0 +1,12 @@
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\BALeyar.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\BALeyar.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\AddressBookEntity.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\AddressBoolWithDissconnectedNTier.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\AddressBookEntity.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\AddressBoolWithDissconnectedNTier.pdb
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\bin\Debug\AddressBoolWithDissconnectedNTier.dll.config
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\obj\Debug\BALeyar.csprojAssemblyReference.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\obj\Debug\BALeyar.csproj.CoreCompileInputs.cache
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\obj\Debug\BALeyar.csproj.CopyComplete
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\obj\Debug\BALeyar.dll
+D:\GIC\vidya\AddressBoolWithDissconnectedNTier\BALeyar\obj\Debug\BALeyar.pdb
